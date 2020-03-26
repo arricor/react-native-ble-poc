@@ -1,17 +1,19 @@
 # react-native-ble-poc
-`
+
+## Getting Started
+
 npm install
 
 npm start
 
-`
-- ios
-`
+
+### ios
+
 cd ios
 
 pod install
 
 Open ios project - BluetoothScanner.xcworkspace
-`
-- Android
+
+### Android
 Open Android project using Android Studio
