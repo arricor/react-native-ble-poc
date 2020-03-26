@@ -2,11 +2,12 @@
 
 npm install
 
-- ios
+##ios
 cd ios
+
 pod install
 
 Open ios project - BluetoothScanner.xcworkspace
 
-- Android
+##Android
 Open Android project
